@@ -1,9 +1,2 @@
 # robofriends
-Tutorial for React
-To run the project:
-
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
-
-*visist https://zerotomastery.io/ for more*
+React based app to choose robot friends form the one's saved by their name to get their ID and animation.
